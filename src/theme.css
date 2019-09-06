@@ -1,0 +1,15 @@
+:root {
+	--bg-primary: white;
+	--bg-secondary: lightgray;
+	--primary-color: #5fcc00;
+	--secondary-color: #00aacc;
+	--secondary-color-alt: #8800cc;
+}
+
+[data-theme='dark'] {
+	--bg-primary: #3a3a3a;
+	--bg-secondary: #1a1a1a;
+	--primary-color: #5fcc00;
+	--secondary-color: skyblue;
+	--secondary-color-alt: #8800cc;
+}

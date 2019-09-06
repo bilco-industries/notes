@@ -1,0 +1,7 @@
+footer {
+	background-image: linear-gradient(var(--bg-primary), var(--bg-secondary));
+	height: 10%;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}

@@ -1,0 +1,32 @@
+.login {
+	text-align: center;
+	display: flow-root;
+}
+
+.login form {
+	border: solid;
+	height: fit-content;
+	padding: 20px;
+	width: 20%;
+	margin: auto;
+	margin-top: 10%;
+	border-radius: 20px;
+}
+
+.login form .field {
+	margin: auto;
+	margin-top: 20px;
+	width: 90%;
+	border-radius: 5px;
+	padding: 10px;
+	display: block;
+}
+
+.login .heading {
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+.links {
+	display: block;
+}

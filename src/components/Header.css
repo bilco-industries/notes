@@ -1,0 +1,16 @@
+header {
+	margin-top: 0;
+	background-image: linear-gradient(var(--bg-secondary), var(--bg-primary));
+	height: 10%;
+}
+
+header .title {
+	margin-top: 0;
+	font-size: 30pt;
+}
+
+header nav {
+	margin-top: 0;
+	display: flex;
+	margin: auto;
+}
